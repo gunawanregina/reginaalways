@@ -119,6 +119,29 @@ body {
     object-fit: cover;
 }
 
+/* Gallery Caption - BARU */
+.gallery-caption {
+    padding: 15px;
+    text-align: center;
+    background: white;
+}
+
+.gallery-caption h3 {
+    color: #ff6b9d;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0 0 8px 0;
+}
+
+.gallery-caption p {
+    color: #666;
+    font-size: 0.95em;
+    margin: 0;
+    text-align: center;
+}
+
+/* Hapus atau comment out yang lama */
+/* 
 .gallery-item p {
     padding: 15px;
     text-align: center;
@@ -126,6 +149,7 @@ body {
     font-size: 0.95em;
     font-weight: bold;
 }
+*/
 
 /* Reasons Section */
 .reasons-section {
