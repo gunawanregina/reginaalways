@@ -5,13 +5,13 @@ function showYesMessage() {
     cta.style.transition = 'all 0.5s ease';
     cta.innerHTML = `
         <h2 style="font-size: 2.5em; color: #ff6b9d; margin-bottom: 20px; animation: bounce 1s ease;">
-            YES! ❤️❤️❤️
+            YES YEAYYYYY! ❤️❤️❤️
         </h2>
         <p style="font-size: 1.3em; color: #d63384; margin: 20px 0;">
-            Aku sangat senang! Terima kasih telah memilihku!
+            Wibii sangat senang! Terima kasih Cayanggg telah memilihku!
         </p>
         <p style="font-size: 1.1em; color: #666;">
-            Aku tidak sabar untuk merayakan momen spesial itu bersama kamu! 💕
+            Guweeee tidak sabar untuk merayakan momen spesial itu bersama loo Rennnn! 💕
         </p>
         <button onclick="createMassiveHearts()" class="yes-button" style="margin-top: 30px;">
             Buat Perayaan! 🎉
